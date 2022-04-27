@@ -16,4 +16,4 @@ cecie est une 2e ligne
 * ca marche aussi avec les étoile
 * je pense
 
-![block diagram](HW4_State_Machines_&_Interrupts\Digital_FM_Tuner\Hardware Block Diagram.png)
+![block diagram](HW4_State_Machines_&_Interrupts/Digital_FM_Tuner/Hardware Block Diagram.png)
