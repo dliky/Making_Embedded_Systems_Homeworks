@@ -45,7 +45,7 @@ void memVar(void)
   }
 ```
 ### Printout from CubeIDE
-
+![expressions](https://github.com/dliky/Making_Embedded_Systems_Homeworks/blob/master/HW8_Resource_Constraints/images/Expressions.png)
 
 
 
