@@ -21,7 +21,7 @@ Evaluating algorithms against time is not a reliable method as it is always mach
 
 The *time complexity* of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input. In order to calculate it, it is assumed that a constant time is taken to execute one operation, and then the total operations for an input length on N are calculated.
 The *space complexity* of an algorithm quantifies the amount of space taken by an algorithm to run as a function of the length of the input. There is also an auxiliary space, which is different from space complexity. The main difference is where space complexity quantifies the total space used by the algorithm, auxiliary space quantifies the extra space that is used in the algorithm apart from the given input.
-[Source](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp).
+[(Source)](https://www.geeksforgeeks.org/time-complexity-and-space-complexity/?ref=rp).
 
 ## Method Test Results
 
