@@ -40,9 +40,9 @@ Note: I have noticed that refreshing the compilation leads to time values not id
 
 ### Big-O values explanation
 
-- 0(n<sup>2</sup>): called quadratic. Means that for every insert, it takes n*n operations. i.e. 1 operation for 1 item, 4 operations for 2 items, 9 operations for 3 items. As one can see, O(n^2) algorithms become inefficient for handling large number of items. 
-- 0(1): called as constant time algorithm, it will always execute in the same time regardless of the number of items.
-- 0(n√n): as √n must be positive, it is in the form O(n) describing an algorithm increasing linearly. 
+- 0(n<sup>2</sup>): Called quadratic. It means that for every insert, it takes (n*n) operations i.e., 1 operation for 1 item, 4 operations for 2 items, 9 operations for 3 items. As one can see, 0(n<sup>2</sup>) algorithms become inefficient for handling large number of items. 
+- 0(1): Called constant time, the alogorithm will always execute in the same time regardless of the number of items.
+- 0(n√n): As √n must be positive, it is the form O(n) describing an algorithm increasing linearly. 
 
 
 
