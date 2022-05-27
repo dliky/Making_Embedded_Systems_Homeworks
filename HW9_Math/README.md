@@ -32,23 +32,17 @@ Both implementations (a.k.a. methods) search for prime numbers between two bound
 2. The second code implementation is an optimization of the first one because it checks only the odd numbers meaning that about half of the number range is scrutinized. The core logic remains quite the same.
  This implementation yields a time complexity of __0(n√n)__ and a space complexity of __O(1)__. The total time recorded in Compiler Explorer was __506ms__.
  
-<<<<<<< HEAD
 Note: I have noticed that refreshing the compilation leads to time values not identical to the ones read after the first run.
 
 ### Output
 ![prime_output](https://github.com/dliky/Making_Embedded_Systems_Homeworks/blob/master/HW9_Math/images/prime_output.png)
-=======
-__Note:__I've noticed that refreshing the compilation leads to time values not similar to the ones read after the first run.
 
-### Output
-![prime_output](https://github.com/dliky/Making_Embedded_Systems_Homeworks/tree/master/HW9_Math/images/prime_output.png)
->>>>>>> 2a737a1c93945405e4a36c817dca394e8c4deef0
 
 ### Big-O values explanation
 
-0(n<sup>2</sup>): called quadratic. Means that for every insert, it takes n*n operations. i.e. 1 operation for 1 item, 4 operations for 2 items, 9 operations for 3 items. As one can see, O(n^2) algorithms become inefficient for handling large number of items. 
-0(1): called as constant time algorithm, it will always execute in the same time regardless of the number of items.
-0(n√n): as √n must be positive, it is in the form O(n) describing an algorithm increasing linearly. 
+- 0(n<sup>2</sup>): called quadratic. Means that for every insert, it takes n*n operations. i.e. 1 operation for 1 item, 4 operations for 2 items, 9 operations for 3 items. As one can see, O(n^2) algorithms become inefficient for handling large number of items. 
+- 0(1): called as constant time algorithm, it will always execute in the same time regardless of the number of items.
+- 0(n√n): as √n must be positive, it is in the form O(n) describing an algorithm increasing linearly. 
 
 
 
