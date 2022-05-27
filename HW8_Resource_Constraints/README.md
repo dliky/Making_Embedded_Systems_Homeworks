@@ -52,11 +52,7 @@ void memVar(void)
   }
 ```
 ## Printouts from CubeIDE
-<<<<<<< HEAD
-![Expressions](https://github.com/dliky/Making_Embedded_Systems_Homeworks/blob/master/HW8_Resource_Constraints/images/expressions.png)
-=======
 ![expressions](https://github.com/dliky/Making_Embedded_Systems_Homeworks/blob/master/HW8_Resource_Constraints/images/expressions.png)
->>>>>>> 82f139aee97e1afcbcd2324ec0fb6fae1be59ec4
 
 ## Memory Usage and Addresses
 ![memory_usage](https://github.com/dliky/Making_Embedded_Systems_Homeworks/blob/master/HW8_Resource_Constraints/images/memory_usage.png)
