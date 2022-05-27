@@ -13,7 +13,7 @@ Some possible options include:
 ## Finding prime numbers
 
 I compared time and space complexity of two algorithm implementations used to search prime numbers between 1 and 100 (not exactly the problem statement but it will do I guess :sweat_smile:).
-The [code](https://github.com/dliky/Making_Embedded_Systems_Homeworks/blob/master/HW9_Math/src/PrimeNumbersCodeComp.cpp) was reused from the website *PrepInsta.com* and was tested with [Compiler Explorer](https://godbolt.org/).
+The [code](https://github.com/dliky/Making_Embedded_Systems_Homeworks/blob/master/HW9_Math/src/PrimeNumbersCodeComp.cpp) was reused from the website *PrepInsta.com* and compiled with [Compiler Explorer](https://godbolt.org/).
 
 ## Time Complexity, Space Complexity and Big-O Notation
 
